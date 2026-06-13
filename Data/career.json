@@ -1,16 +1,16 @@
 {
-  "career": "Android & Intelligent Systems Engineer",
-  "description": "Develops highly optimized native mobile applications combined with efficient background automation execution pipelines and intelligent assistant logic.",
-  "required_skills": [
-    "Advanced Data Structures and Algorithms",
-    "C++ and Mobile Programming Frameworks",
-    "Android Studio Architecture & Performance Profiling",
-    "Background Execution Lifecycle Management",
-    "Local Retrieval-Augmented Generation (RAG) Architecture"
-  ],
-  "recommended_courses": [
-    "PCC-CS301",
-    "PCC-CS404",
-    "PEC-CS501A"
-  ]
+  "android_engineer": {
+    "required_skills": [
+      "android",
+      "c++",
+      "mobile development",
+      "algorithms",
+      "rag"
+    ],
+    "recommended_courses": [
+      "PCC-CS301",
+      "PCC-CS404",
+      "PEC-CS501A"
+    ]
+  }
 }
